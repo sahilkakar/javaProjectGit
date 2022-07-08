@@ -7,5 +7,8 @@ public class JavaClassGit2 {
 		System.out.println("this is new class added");
 		
 		int a;
+		
+		
+		String v = "sahil";
 	}
 }
